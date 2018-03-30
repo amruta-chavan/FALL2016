@@ -1,7 +1,7 @@
 Project: How Far have Cars driven the Nature!
 
 author: F16-IG-3020, Aditya Tanikanti, atanikan@iu.edu   
-        F16-IG-3005, Amruta Chavan, amchavan@iu.edu
+author: F16-IG-3005, Amruta Chavan, amchavan@iu.edu
 
 Project Type: Analytics
 
@@ -79,7 +79,7 @@ Deliverables:
                 c) co2_fuel_aggr.csv
                 
             Note: FuelEconomyData.csv and co2_fuel_aggr.csv and clean, consolidated and derived datasets from the original dataset for better data analysis and visualization.
-                
+            
             3) Find all the images and visualizations in the images folder.
             
             4) DescriptiveAnalysis.R can run without RMArkdown supporting packages.
